@@ -1,0 +1,15 @@
+{
+  "id": "https://example.com/credentials/status/3",
+  "issuer": "https://example.com/issuers/credential-status",
+  "issuanceDate": "2024-04-25T08:00:00Z",
+  "credentials": [
+    {
+      "credentialId": "123456789",
+      "status": "active",
+      "dateCreated": "2024-04-25T08:00:00Z",
+      "dateUpdated": "2024-04-25T08:00:00Z",
+      "issuer": "https://example.com/issuers/issuer1",
+      "subject": "https://example.com/subjects/subject1"
+    }
+  ]
+}
